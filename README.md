@@ -1,37 +1,37 @@
-# KARTAR SINGH
-                    ## Mobile: 8010064452
-                    ## Email: kartaryadav@live.in
+# KARTAR SINGH                                                                                                    ## Mobile: 8010064452
+                                                                                                           ## Email: kartaryadav@live.in
 
 
-Summary:
-•	Senior Software developer with 5.8 years of experience in analysis, design and development of software applications and highly experienced and skilled “Agile Developer” with a strong record of excellent teamwork.
-•	Good experience in designing the Application using SOLID Principle.
-•	Experience in implementation of Object Oriented Programming Concepts.
-•	5.6 years of Experience in Microsoft Technologies like C#, ASP.NET MVC, ASP.NET WEB API Entity Framework and Linq.
-•	Hands on in development of REST full web services using ASP.NET WEB API.
-•	3 years of working experience in Front End Application Development using Angular Js.
-•	3 years of experience in writing unit test cases using Karma and Jasmine.
-•	3 years of experience in writing UI Automation using Protractor framework. 
-•	4 years of experience in designing and developing web application using HTML5, CSS3, Java Script.
-•	Good experience in Designing Responsive Web Application using Bootstrap and Angular Material.
-•	Experience in componentization of application for scalability and maintainability.
-•	Working in “Agile software development” pattern from last three years.
-•	Good experience of making application loosely coupled and testable. 
-•	Good experience of publish and deploy application on Web Server.
-•	Strong team player, ability works independently and in a team as well, ability to adapt to a rapidly changing environment, commitment towards learning, Possess excellent communication, documentation, interpersonal skills.
+# Summary:
+-	Senior Software developer with 5.8 years of experience in analysis, design and development of software applications and highly experienced and skilled “Agile Developer” with a strong record of excellent teamwork.
+-	Good experience in designing the Application using SOLID Principle.
+-	Experience in implementation of Object Oriented Programming Concepts.
+-	5.6 years of Experience in Microsoft Technologies like C#, ASP.NET MVC, ASP.NET WEB API Entity Framework and Linq.
+-	Hands on in development of REST full web services using ASP.NET WEB API.
+-	3 years of working experience in Front End Application Development using Angular Js.
+-	3 years of experience in writing unit test cases using Karma and Jasmine.
+-	3 years of experience in writing UI Automation using Protractor framework. 
+-	4 years of experience in designing and developing web application using HTML5, CSS3, Java Script.
+-	Good experience in Designing Responsive Web Application using Bootstrap and Angular Material.
+-	Experience in componentization of application for scalability and maintainability.
+-	Working in “Agile software development” pattern from last three years.
+-	Good experience of making application loosely coupled and testable. 
+-	Good experience of publish and deploy application on Web Server.
+-	Strong team player, ability works independently and in a team as well, ability to adapt to a rapidly changing environment, commitment towards learning, Possess excellent communication, documentation, interpersonal skills.
 
-Technical Skills:
-Microsoft Technologies	Asp.Net MVC, Asp.Net Web API, ENTITY FRAMEWORK and LINQ
-Programming Languages	C#, Object Oriented Programming
-Scripting Languages	Java Script, Angular JS, HTML5, CSS3
-Database 	SQL Server 2008
-Development Tools		MS Visual Studio 2010/2013/2015 and Visual Studio Code
+# Technical Skills:
+- Microsoft Technologies	Asp.Net MVC, Asp.Net Web API, ENTITY FRAMEWORK and LINQ
+- Programming Languages	C#, Object Oriented Programming
+- Scripting Languages	Java Script, Angular JS, HTML5, CSS3
+- Database 	SQL Server 2008
+- Development Tools		MS Visual Studio 2010/2013/2015 and Visual Studio Code
 App/Web Server		IIS 7.5/ 7.0
-Frame Work	 Microsoft .NET Framework 4.5/4.0/3.5
-Operating Systems:		            	 Windows 7/8
-PROFESSIONAL EXPERIENCE:
+- Frame Work	 Microsoft .NET Framework 4.5/4.0/3.5
+- Operating Systems:		            	 Windows 7/8
 
-Infogain India Pvt. Ltd.					Dec 2014 TO TILL DATE
+# PROFESSIONAL EXPERIENCE:
+
+## Infogain India Pvt. Ltd.					Dec 2014 TO TILL DATE
 Project 1:  Repair Center Connect
 Role:  Senior Software Developer
 Technologies:  AngularJs, Jasmine, Protractor, Grunt C#, Asp.Net Web API
