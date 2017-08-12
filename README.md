@@ -142,11 +142,9 @@ Responsibilities:
 ## Professional Qualification:
  ### Master of Computer application (Uttar Pradesh Technical University) 2011
 ## Personal Details:	
-Name:			Kartar Singh
-Father’s Name:		Rajmal Singh
-Sex:			Male 
-Languages Known:	English, Hindi
-Nationality:		Indian
-Mobile:                         	 (+91) 8010064452
-Location:                       	New Delhi
-
+- Name:			Kartar Singh
+- Father’s Name:		Rajmal Singh
+- Sex:			Male 
+- Languages Known:	English, Hindi
+- Nationality:		Indian
+- Location: New Delhi
